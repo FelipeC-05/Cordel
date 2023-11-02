@@ -87,13 +87,13 @@ section.image > p{
 }
 
 section#img1{
-   background-image: url(imagens/background001.jpg);
+   background-image: url('../imagens/background001.jpg');
    background-position: right center;
    background-repeat: no-repeat ;
    background-attachment: cover;
 }
 section#img2{
-    background-image: url(imagens/background002.jpg);
+    background-image: url('../imagens/background002.jpg');
     background-position: center center;
     background-repeat: no-repeat ;
     background-attachment: cover;
